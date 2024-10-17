@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elovejo&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elovejo&hide_progress=true&theme=dark)
+
 <!--
 **elovejo/elovejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
